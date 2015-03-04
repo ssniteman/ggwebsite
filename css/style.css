@@ -766,6 +766,25 @@ iframe,embed,object {
     text-transform: none;
 }
 
+
+#owl-carousel-team > div.owl-wrapper-outer > div {
+    width: 100% !important;
+    left: 0px !important;
+    display: block !important;
+    text-align: center !important;
+
+}
+
+#owl-carousel-team > div.owl-wrapper-outer > div > div {
+    width: 100% !important;
+    float: none !important;
+    text-align: center !important;
+}
+
+#owl-carousel-team > div.owl-wrapper-outer > div > div > div > div {
+    float: none !important;
+}
+
 /* thumb overlay effect style */
 .thumb-overlay ul {
     padding:0px;
