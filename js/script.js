@@ -100,12 +100,12 @@ jQuery(document).ready(function ($) {
 
 // Animated Number
     $('#numbers ul').appear(function () {
-        $('#number1').animateNumber({number: 199}, 1500);
-        $('#number2').animateNumber({number: 4218}, 1500);
-        $('#number3').animateNumber({number: 54}, 1500);
-        $('#number4').animateNumber({number: 99}, 1500);
-        $('#number5').animateNumber({number: 324}, 1500);
-        $('#number6').animateNumber({number: 45}, 1500);
+        $('#number1').animateNumber({number: 19108}, 1500);
+        $('#number2').animateNumber({number: 1950}, 1500);
+        $('#number3').animateNumber({number: 28}, 1500);
+        $('#number4').animateNumber({number: 10000}, 1500);
+        // $('#number5').animateNumber({number: 324}, 1500);
+        // $('#number6').animateNumber({number: 28}, 1500);
     }, {accX: 0, accY: -200});
 
 // responsive Video
